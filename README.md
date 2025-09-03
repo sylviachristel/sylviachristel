@@ -6,7 +6,7 @@
   Hi, I'm Deniz <span style="font-size:0.8em;">(sylviachristel)</span> 👋
 </h1>
 <p align="center" style="margin-top:0; font-size:1.15em;">
-  Full Stack Developer | Python & HTML/CSS/JS Enthusiast
+  Full Stack Developer | Python & HTML/CSS/JS 
 </p>
 
 ---
