@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="margin-bottom:0;">
-  Hi, I'm Deniz <span style="font-size:0.8em;">(sylviachristel)</span> 👋
+  Deniz <span style="font-size:0.8em;"></span> 
 </h1>
 <p align="center" style="margin-top:0; font-size:1.15em;">
   Full Stack Developer | Python & HTML/CSS/JS 
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=sql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
