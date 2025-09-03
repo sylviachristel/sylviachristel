@@ -14,6 +14,7 @@
 ## About Me
 
 - 1+ years of Full Stack experience, mainly with **Python** & **HTML/CSS/JS**.
+- Experienced with SQL, SQLite, MySQL, RESTful APIs, Requests, Scrapy
 - Focused on **clean code**, **scalable systems**, and **automation**.
 - Eager to collaborate and share knowledge.
 - Fan of refactoring, design patterns, and lifelong growth.
