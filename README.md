@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFvcjhqcm02d3pvbWtyaTJhejE4MHlpZjlndGZjdWh3azMzOWN5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q38VMrPlgWHXW/giphy.gif" alt="kisuke urahara" width="90" style="border-radius: 50%; box-shadow: 0 0 8px #8cffb2; margin-bottom: 10px;" />
-</p>
 
 <h1 align="center" style="margin-bottom:0;">
   Deniz <span style="font-size:0.8em;"></span> 
