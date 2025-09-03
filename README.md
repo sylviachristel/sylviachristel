@@ -1,7 +1,5 @@
 
-<h1 align="center" style="margin-bottom:0;">
-  Deniz <span style="font-size:0.8em;"></span> 
-</h1>
+
 <p align="center" style="margin-top:0; font-size:1.15em;">
   Junior Full Stack Developer | Python & Django/Flask, HTML/CSS/JS
 </p>
