@@ -6,7 +6,7 @@
   Deniz <span style="font-size:0.8em;"></span> 
 </h1>
 <p align="center" style="margin-top:0; font-size:1.15em;">
-  Full Stack Developer | Python & HTML/CSS/JS 
+  Junior Full Stack Developer | Python & Django/Flask, HTML/CSS/JS
 </p>
 
 ---
