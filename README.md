@@ -14,10 +14,14 @@
 ## About Me
 
 - 1+ years of Full Stack experience, mainly with **Python** & **HTML/CSS/JS**.
-- Experienced with SQL, SQLite, MySQL, RESTful APIs, Requests, Scrapy
+- Experienced with SQL, SQLite, MySQL, RESTful APIs, Requests and Scrapy, Bootstrap and Git/GitHub. 
+- Familiar with SQLAlchemy, Pandas, NumPy, Matplotlib, JSON, BeautifulSoup and Selenium.
+- Hands-on experience with fundamental programming concepts, algorithms and data structures using C.
 - Focused on **clean code**, **scalable systems**, and **automation**.
 - Eager to collaborate and share knowledge.
 - Fan of refactoring, design patterns, and lifelong growth.
+- Strong background in English linguistics, language analysis, research and content creation combined with analytical and communication skills.
+- Passionate about bridging language and technology through software development and AI, with plans to explore ML and AI applications in the future.
 
 ---
 
