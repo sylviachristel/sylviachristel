@@ -10,35 +10,13 @@
 </p>
 
 ---
-<p align="center">
-  <!-- Profile Stats -->
-  <img src="https://img.shields.io/github/followers/sylviachristel?style=flat-square&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/stars/sylviachristel?style=flat-square&logo=github&label=Stars" />
- 
-</p>
 
-<p align="center">
-  <!-- Tech Stack -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=sql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+## About Me
 
-
-
----
-
-## 👨‍💻 About Me
-
-- 💡 1+ years of Full Stack experience, mainly with **Python** & **HTML/CSS/JS**.
-- 🛠️ Focused on **clean code**, **scalable systems**, and **automation**.
-- 🤝 Eager to collaborate and share knowledge.
-- 📚 Fan of refactoring, design patterns, and lifelong growth.
+- 1+ years of Full Stack experience, mainly with **Python** & **HTML/CSS/JS**.
+- Focused on **clean code**, **scalable systems**, and **automation**.
+- Eager to collaborate and share knowledge.
+- Fan of refactoring, design patterns, and lifelong growth.
 
 ---
 
@@ -52,21 +30,7 @@
 
 ---
 
-## 🌍 Connect
 
-<p align="center">
-  <a href="mailto:deniznbektas@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/deniznihan/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-
----
-
- ![Profile Views](https://komarev.com/ghpvc/?username=sylviachristel&color=blue)
-
----
 <!--## WakaTime -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
